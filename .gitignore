@@ -1,0 +1,11 @@
+# Dossier de sortie IntelliJ
+/out/
+
+# Fichiers de configuration IDE
+*.iml
+.idea/
+
+# Fichiers temporaires du système
+.DS_Store
+Thumbs.db
+
